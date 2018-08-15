@@ -1,0 +1,2 @@
+# specialnewz
+blog site which is used to show the latest technology news
